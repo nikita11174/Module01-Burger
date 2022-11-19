@@ -37,7 +37,7 @@ header {
     display: flex;
     list-style-type: none;
     padding-left: 0;
-    gap: 46px;
+    gap: 54px;
 }
 
 .header-nav a {
@@ -150,9 +150,9 @@ header {
 
 .title {
     font-weight: 700;
-    font-size: 79px;
+    font-size: 78px;
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .description {
