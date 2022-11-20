@@ -249,6 +249,8 @@ header {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
+    text-align: center;
+
 }
 
 .menu-grid-cover {
@@ -268,8 +270,26 @@ header {
     height: 430px;
 }
 
+.menu-grid-title {
+    font-weight: 600;
+    color: #1B2A49;
+}
 
+.menu-grid-price {
+    color: #979797;
+}
 
+.menu-grid-btn {
+    background: #FBB731;
+    border-radius: 5px;
+    text-transform: uppercase;
+    border: 0;
+    padding: 10px 30px 10px 52px;
+}
+
+.menu-grid-icon img {
+    padding-right: 5px;
+}
 
 
 

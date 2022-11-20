@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="update">
-      <change afterPath="$PROJECT_DIR$/images/arrow.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/banner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/cartMenu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/01.jpg" afterDir="false" />
+    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="13 module 1">
+      <change afterPath="$PROJECT_DIR$/images/menu/02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu/03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu/04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu/05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/menu/06.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
@@ -43,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger/images",
+    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger/images/menu",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -55,8 +56,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images\menu" />
+      <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -80,7 +81,7 @@
       <workItem from="1668716227176" duration="4598000" />
       <workItem from="1668874872915" duration="2687000" />
       <workItem from="1668934227768" duration="1385000" />
-      <workItem from="1668961840743" duration="7529000" />
+      <workItem from="1668961840743" duration="10728000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668204131804</created>
@@ -124,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668878797911</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="13 module 1">
+      <created>1668975934599</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668975934599</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
