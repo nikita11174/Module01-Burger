@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="13 module 1">
-      <change afterPath="$PROJECT_DIR$/images/menu/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/06.jpg" afterDir="false" />
+    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="13 module 1 add btn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
@@ -38,22 +33,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger/images/menu",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nikita/source/WWW/Module01-Burger/images/menu&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images\menu" />
@@ -81,7 +76,8 @@
       <workItem from="1668716227176" duration="4598000" />
       <workItem from="1668874872915" duration="2687000" />
       <workItem from="1668934227768" duration="1385000" />
-      <workItem from="1668961840743" duration="10728000" />
+      <workItem from="1668961840743" duration="10826000" />
+      <workItem from="1669140612015" duration="4113000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668204131804</created>
@@ -132,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668975934599</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="13 module 1 add btn">
+      <created>1668980812164</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1668980812164</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +158,7 @@
     <MESSAGE value="task 11" />
     <MESSAGE value="update" />
     <MESSAGE value="13 module 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 module 1" />
+    <MESSAGE value="13 module 1 add btn" />
+    <option name="LAST_COMMIT_MESSAGE" value="13 module 1 add btn" />
   </component>
 </project>
