@@ -7,7 +7,7 @@ body {
     margin: 0 auto;
     padding-left: 15px;
     padding-right: 15px;
-    margin-bottom:100px ;
+    margin-bottom: 1px;
 }
 
 
@@ -21,8 +21,14 @@ header {
     align-items: center;
     justify-content: space-between;
     padding-top: 26px;
-    padding-bottom: 26px;
+    padding-bottom: 25px;
+}
 
+.header-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-basis: 68.5%;
 }
 
 .header-logo {
@@ -35,10 +41,10 @@ header {
 }
 
 .header-nav {
-    display: flex;
     list-style-type: none;
+    display: flex;
     padding-left: 0;
-    gap: 54px;
+    gap: 46px;
 }
 
 .header-nav a {
@@ -209,13 +215,18 @@ header {
 
 .banner-link {
     font-size: 14px;
-    padding: 20px 27px;
+    padding: 18px 25px;
     text-transform: uppercase;
     text-decoration: none;
     color: #1E2F40;
     background-color: #FBB731;
     border-radius: 5px;
+    border: 1px solid #FBB731;
+}
 
+.banner-link:hover {
+    background-color: transparent;
+    color: #FBB731;
 }
 
 .menu-header {
@@ -250,8 +261,9 @@ header {
 .menu-grid {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 20px;
+    gap: 50px 20px;
     text-align: center;
+    margin-bottom: 100px;
 }
 
 .menu-grid-cover {
@@ -287,9 +299,21 @@ header {
 .menu-grid-btn {
     background: #FBB731;
     border-radius: 5px;
-    text-transform: uppercase;
-    border: 0;
-    padding: 9px 32px 9px 32px;
+    padding: 10px 32px;
+    border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 9px;
+}
+
+.menu-grid-icon {
+    background-size: 18px 18px;
+    background-repeat: no-repeat;
+    display: block;
+    width: 18px;
+    height: 18px;
 }
 
 .menu-grid-icon img {
@@ -305,5 +329,74 @@ header {
 }
 
 
+.footer {
+    background: #1E2F40;
+    color: #fff;
+    padding-top: 117px;
+    padding-bottom: 106px;
+    margin-top: 140px;
+}
+
+.footer-box {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-logo {
+    width: 63px;
+    height: 56px;
+}
+
+.footer-item {
+    flex: 0 0 auto;
+}
+
+.footer-item h2 {
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin-bottom: 19px;
+    margin-top: 0;
+}
 
 
+.footer-list li {
+    margin-bottom: 9px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    color: #FAF9F9;
+    font-weight: 700;
+    line-height: 24px;
+}
+
+.footer-list a {
+    color: #DEDEDE;
+    text-decoration: none;
+    font-weight: 400;
+}
+
+.footer-item span {
+    color: #DEDEDE;
+    display: block;
+    font-weight: 400;
+    margin-bottom: 2px;
+}
+
+.footer-list-tel a {
+    margin-top: 0;
+}
+
+.footer-list-tel li {
+    margin-bottom: 12px;
+}
+
+.footer-list-tel a {
+    font-size: 20px;
+    font-weight: 900;
+    color: #FBB731;
+}
+
+.footer-list {
+    padding-left: 0;
+    list-style-type: none;
+}
