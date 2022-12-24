@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="13 module 1 add btn">
-      <change afterPath="$PROJECT_DIR$/images/logo-footer.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/hotDog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/potatoFri.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/menu/sandwitch.jpg" afterDir="false" />
+    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="15 module 1 add btn">
+      <change afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
@@ -23,11 +21,15 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/styles/main.css" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -43,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger/images",
+    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -60,8 +62,9 @@
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images\menu" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images" />
+      <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\burgermain" />
+      <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images\menu" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\banner" />
     </key>
   </component>
@@ -84,7 +87,12 @@
       <workItem from="1668961840743" duration="10826000" />
       <workItem from="1669140612015" duration="4113000" />
       <workItem from="1669481415192" duration="2454000" />
-      <workItem from="1669749710813" duration="5820000" />
+      <workItem from="1669749710813" duration="6584000" />
+      <workItem from="1670746159252" duration="624000" />
+      <workItem from="1670749664940" duration="1550000" />
+      <workItem from="1671870468843" duration="403000" />
+      <workItem from="1671871528239" duration="7662000" />
+      <workItem from="1671887283661" duration="7779000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668204131804</created>
@@ -142,7 +150,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668980812164</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="15 module 1 add btn">
+      <created>1669756588413</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1669756588413</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +181,7 @@
     <MESSAGE value="update" />
     <MESSAGE value="13 module 1" />
     <MESSAGE value="13 module 1 add btn" />
-    <option name="LAST_COMMIT_MESSAGE" value="13 module 1 add btn" />
+    <MESSAGE value="15 module 1 add btn" />
+    <option name="LAST_COMMIT_MESSAGE" value="15 module 1 add btn" />
   </component>
 </project>
