@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="15 module 1 add btn">
-      <change afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
+    <list default="true" id="4c04738a-cc68-4826-9353-3a398467b8ce" name="Changes" comment="19 update">
+      <change afterPath="$PROJECT_DIR$/images/burger-close.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/burger.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/menu.html" beforeDir="false" afterPath="$PROJECT_DIR$/menu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,13 +46,13 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger",
+    "last_opened_file_path": "C:/Users/Nikita/source/WWW/Module01-Burger/images",
     "list.type.of.created.stylesheet": "CSS",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -63,6 +64,7 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images" />
+      <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\burger" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\burgermain" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\images\menu" />
       <recent name="C:\Users\Nikita\source\WWW\Module01-Burger\banner" />
@@ -92,7 +94,12 @@
       <workItem from="1670749664940" duration="1550000" />
       <workItem from="1671870468843" duration="403000" />
       <workItem from="1671871528239" duration="7662000" />
-      <workItem from="1671887283661" duration="7779000" />
+      <workItem from="1671887283661" duration="10822000" />
+      <workItem from="1671973102417" duration="287000" />
+      <workItem from="1672005135918" duration="4875000" />
+      <workItem from="1672047639254" duration="4541000" />
+      <workItem from="1672067253709" duration="6216000" />
+      <workItem from="1672093166447" duration="59000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1668204131804</created>
@@ -157,7 +164,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669756588413</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="17 update">
+      <created>1671903341630</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671903341630</updated>
+    </task>
+    <task id="LOCAL-00011" summary="18 update">
+      <created>1672007816809</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1672007816809</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,6 +203,8 @@
     <MESSAGE value="13 module 1" />
     <MESSAGE value="13 module 1 add btn" />
     <MESSAGE value="15 module 1 add btn" />
-    <option name="LAST_COMMIT_MESSAGE" value="15 module 1 add btn" />
+    <MESSAGE value="17 update" />
+    <MESSAGE value="18 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="18 update" />
   </component>
 </project>
